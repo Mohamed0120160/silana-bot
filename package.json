@@ -73,6 +73,7 @@
     "gemini-ai": "*",
     "node-gtts": "*",
     "ytdl-core":"*",
+    "libphonenumber-js": "^1.11.0",
     "api-dylux":"*",
     "buffer":"*",
     "g4f":"*",
